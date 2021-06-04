@@ -16,9 +16,10 @@ Including another URLconf
 
 from django.contrib import admin
 from django.urls import path,include
-from django.http import HttpResponse
+
 
 
 urlpatterns = [
-    path('', include('BloodBank.urls'))
+    path('', include('BloodBank.urls')),
+    path('admin/', include('admins.urls'))
 ]

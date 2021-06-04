@@ -1,0 +1,134 @@
+.navbar
+{
+background-color:#CE182B !important;
+}
+
+.button {
+    background-color: #14CF57;
+    border: none;
+    color: white;
+    padding: 13px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 30px;
+    transition-duration: 0.4s;
+    margin:5px;
+  }
+  .button:hover {
+    background-color: white;
+    color: black;
+    font-weight:500;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+  .button1 {
+    background-color: #2B9BB4;
+    border: none;
+    color: white;
+    padding: 13px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 30px;
+    transition-duration: 0.4s;
+    margin:5px;
+  }
+  .button1:hover {
+    background-color: white;
+    color: black;
+    font-weight:500;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+ 
+
+  .navbar-brand
+  {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 23px;
+  font-weight:600;
+  }
+  .navbar-nav
+  {
+  padding-left: 8% !important;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight:500;
+  color: white !important;
+  display: flex;
+
+  }
+
+
+  
+  .nav-item .nav-link{
+    color: white !important;
+  }
+
+  .nav-link:hover{
+    color: black !important;
+  }
+
+  .dropdown{
+    position:relative;
+    display: inline-block;
+  }
+
+  .dropdown-menu{
+    background-color: #CE182B !important;
+    position: absolute;
+  }
+
+  .dropdown-item{
+    font-size: 14px;
+    color: white;
+    padding: 8px 20px !important;
+  }
+
+ 
+  #hover:hover
+  {
+  text-decoration: underline;
+  text-decoration-color:#5497F0;
+  text-decoration-thickness: 4px;
+  transition: all ease-in-out 1s;
+  
+  }
+  #navbarDropdownMenuLink:hover
+  {
+  text-decoration: underline;
+  text-decoration-color:#5497F0;
+  text-decoration-thickness: 4px;
+  transition: all ease-in-out 1s;
+  }
+  #navbarDropdownMenuLink1:hover
+  {
+  text-decoration: underline;
+  text-decoration-color:#5497F0;
+  text-decoration-thickness: 4px;
+  transition: all ease-in-out 1s;
+  }
+  #navbarDropdownMenuLink2:hover
+  {
+  text-decoration: underline;
+  text-decoration-color:#5497F0;
+  text-decoration-thickness: 4px;
+  transition: all ease-in-out 1s;
+  }
+  #navbarDropdownMenuLink3:hover
+  {
+  text-decoration: underline;
+  text-decoration-color:#5497F0;
+  text-decoration-thickness: 4px;
+  transition: all ease-in-out 1s;
+  }
+  #navbarDropdownMenuLink4:hover
+  {
+  text-decoration: underline;
+  text-decoration-color:#5497F0;
+  text-decoration-thickness: 4px;
+  transition: all ease-in-out 1s;
+  }
+  
+  
